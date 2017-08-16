@@ -12,11 +12,13 @@ Make sure to install all of the project's dependencies:
 <code>npm install</code>
 
 In development, at least at the moment, the frontend runs from localhost:3000 and the backend runs from localhost:8000. To start the frontend, do the following:
+<br>
 <code>cd frontend</code>
 <br>
 <code>npm start</code>
 
 And to start the backend run:
+<br>
 <code>cd backend</code>
 <br>
 <code>python manage.py runserver</code>
